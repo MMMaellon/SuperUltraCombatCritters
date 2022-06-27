@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Parameters BEAR
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: VRCEmote
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: VRCFaceBlendH
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: VRCFaceBlendV
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: SUCC
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+  - name: SUCCAdv
+    valueType: 0
+    saved: 0
+    defaultValue: 2
+  - name: SUCCCombatOn
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCCombatOff
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCC combat state
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: SUCC hp
+    valueType: 1
+    saved: 1
+    defaultValue: 1
+  - name: SUCC charge
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: SUCC badge
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: SUCCmove1
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: SUCCmove2
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: SUCCCombatCharge
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCCombatFireAttack
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCCombatWaterAttack
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCCombatGrassAttack
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCCombatFireBlock
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCCombatWaterBlock
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCCombatGrassBlock
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCCombatClear
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyFire
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyFireAdv
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyWater
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyWaterAdv
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyGrass
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyGrassAdv
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyCharge
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemySuperUltra
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyDead
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyDoubleAttack
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCEnemyTargeted
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCShowBadge
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+  - name: SUCCSFX
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+  - name: SUCCg
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: SUCCp
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: SUCCs
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: SUCC3d
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: SUCCRoam
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+  - name: SUCCHeadPat
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+  - name: SUCCStay
+    valueType: 2
+    saved: 1
+    defaultValue: 0
