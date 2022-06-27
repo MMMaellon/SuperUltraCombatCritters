@@ -1,4 +1,6 @@
-# SuperUltraCombatCritters
+﻿# SuperUltraCombatCritters
+
+DOWNLOAD LINK: <https://github.com/MMMaellon/SuperUltraCombatCritters/releases>
 
 A set of avatar prefabs that creates a little critter that follow you and fights other critters on other avatars.
 The "Hop Follower" prefab is a lightweight version that doesn't include the combat system.
